@@ -1,6 +1,9 @@
 # Aprendizado por Projeto Integrado (API) 
 
-   ![TechStockSolutionsLogo](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/c4f1b1e5-86cf-45a3-b4e0-a90ae661d517)
+   <p align="center">
+    <img src=![TechStockSolutionsLogo](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/c4f1b1e5-86cf-45a3-b4e0-a90ae661d517)/)
+   </p>
+   
 
 ## Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -39,7 +42,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+>"Tech Stock Solution: uma equipe dedicada e colaborativa, comprometida em aplicar as melhores práticas ágeis do Scrum para fornecer soluções tecnológicas inovadoras e eficazes. 
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
