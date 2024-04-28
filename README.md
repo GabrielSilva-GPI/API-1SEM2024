@@ -1,8 +1,8 @@
 # Aprendizado por Projeto Integrado (API) - Template
 
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
+![TechStockSolutionsLogo](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/c4f1b1e5-86cf-45a3-b4e0-a90ae661d517)
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+## Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 
