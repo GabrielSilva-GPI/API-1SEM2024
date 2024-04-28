@@ -46,7 +46,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+> O objetivo do projeto é fornecer consultoria utilizando a metodologia ágil Scrum, com foco no trabalho em equipe para alcançar resultados eficazes. Através da aplicação dos princípios do Scrum, pretendemos maximizar a colaboração entre os membros da equipe, aumentar a flexibilidade para lidar com mudanças e garantir entregas de valor de forma iterativa e incremental.
 
 # Funcionalidades e Demonstrações das Sprints
 
