@@ -1,9 +1,7 @@
 # Aprendizado por Projeto Integrado (API) 
 
-   <p align="center">
-    <img src=![TechStockSolutionsLogo](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/c4f1b1e5-86cf-45a3-b4e0-a90ae661d517)/)
-   </p>
-   
+   ![TechStockSolutionsLogo](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/5d7b1d5e-238f-406d-b054-262f97826963)
+
 
 ## Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
