@@ -42,9 +42,8 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 >"Tech Stock Solution: uma equipe dedicada e colaborativa, comprometida em aplicar as melhores práticas ágeis do Scrum para fornecer soluções tecnológicas inovadoras e eficazes. 
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
+![TechStock_Equipe](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/40a9a6f4-e8de-432e-9cc8-5ea9f87cd3ed)
+
 
 # Objetivo do Projeto
 > O objetivo do projeto é fornecer consultoria utilizando a metodologia ágil Scrum, com foco no trabalho em equipe para alcançar resultados eficazes. Através da aplicação dos princípios do Scrum, pretendemos maximizar a colaboração entre os membros da equipe, aumentar a flexibilidade para lidar com mudanças e garantir entregas de valor de forma iterativa e incremental.
