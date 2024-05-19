@@ -102,10 +102,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
-
 ## Burndown
 
 ![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/52d47f92-c9f1-4ac0-afb2-9a85b1bd344b)
