@@ -115,21 +115,23 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção
 > Sprint 1 - Checklist de Atividades Exercidas
-[] Pesquisa sobre Metodologias
-[] Análise SWOT
-[] Análise Crítica para Solução Propostas
-[] Desenvolvimento de Slides
-[] Produção de Vídeos
+
+[X] Pesquisa sobre Metodologias
+[X] Análise SWOT
+[X] Análise Crítica para Solução Propostas
+[X] Desenvolvimento de Slides
+[X] Produção de Vídeo
 
 
 ## Sprint 2 - Desenvolvimento do Projeto
 > Sprint 2  - Checklist de Atividades Exercidas
-[] Estudo de Pesquisa sobre Métodos Estatísticos Básicos
-[] Desenvolvimento da Média Móvel
-[] Desenvolvimento da Média Móvel Ponderada
-[] Criação de Planilhas
-[]Desenvolvimento de Slides
-[]Produção de Vídeo
+
+[X] Estudo de Pesquisa sobre Métodos Estatísticos Básicos
+[X] Desenvolvimento da Média Móvel
+[X] Desenvolvimento da Média Móvel Ponderada
+[X] Criação de Planilhas
+[X]Desenvolvimento de Slides
+[X]Produção de Vídeo
       
 ## Sprint 3 - Implementação
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
