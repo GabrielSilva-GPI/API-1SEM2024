@@ -51,14 +51,13 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
-![image alt text](![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/d0ea4544-9c9a-4403-bab7-58d991d9624d)))
+> Análise SWOT e Análise crítica (Propostas)
+![image alt text]![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/7c7329ce-1447-46cd-aa20-897f98c99449)
 
-[[link Sprint1]([https://www.youtube.com/watch?v=Ny04OOx2n64](https://www.youtube.com/watch?v=ILsFjGuOBmo))]
-
+[[link Sprint1](https://www.youtube.com/watch?v=Ny04OOx2n64)]
 
 ## Sprint 2
->Colocar o vídeo da apresentação
+> Métodos estátisticos: Média movrl (MM), Média movel ponderada (MMP), Suavizamento exponencial
 ![image alt text](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/a0d46f79-eae3-438c-8aa3-0ed3a18664de))
 
 [[link Sprint2](https://www.youtube.com/watch?v=Ny04OOx2n64)]
