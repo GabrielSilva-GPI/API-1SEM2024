@@ -58,9 +58,8 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 2
 >Colocar o vídeo da apresentação
-
-[![SPRINT 2](![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/a0d46f79-eae3-438c-8aa3-0ed3a18664de)
-)](https://youtu.be/codigo_do_seu_video)
+![image alt text](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/a0d46f79-eae3-438c-8aa3-0ed3a18664de))
+[link text]([https://example.com/my-link "link title"](https://www.youtube.com/watch?v=Ny04OOx2n64))
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
