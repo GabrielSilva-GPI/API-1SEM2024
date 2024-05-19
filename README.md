@@ -107,11 +107,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Burndown
->Colocar aqui Burndown do projeto
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
+![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/52d47f92-c9f1-4ac0-afb2-9a85b1bd344b)
+
 
 ## Sprint 1 - Concepção
 > Sprint 1 - Checklist de Atividades Exercidas
