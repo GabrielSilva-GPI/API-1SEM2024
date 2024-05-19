@@ -59,7 +59,8 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 2
 >Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 2](![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/a0d46f79-eae3-438c-8aa3-0ed3a18664de)
+)](https://youtu.be/codigo_do_seu_video)
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
