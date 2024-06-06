@@ -65,6 +65,7 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 3
 > Realização da metodologia Curva ABC (Gestão de estoques) - Quais produtos possuem maior valor?
 ![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/6691791f-4ccf-421b-ae9d-fecc9ed83459)
+# Gestão de estoque aplicada!
 
 [[link Sprint3](https://www.youtube.com/watch?v=d4mPzGD_KEk)]
 
