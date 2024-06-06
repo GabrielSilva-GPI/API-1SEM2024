@@ -155,14 +155,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Pesquisa Científica | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Estatística Básica   | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Habilidade com Programa Teams| ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Excel Intermediario | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Metodologias Práticas | ★ ★ ★ ★ ★ ★  ☆ ☆ ☆ ☆ |
+
  
-</details>
+
 
 ## Soft Skill (saber comportamental)
 <details>
@@ -174,7 +174,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Trabalho em equipe | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Empatia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Proatividade | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Colaboração | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 
 </details>
 
