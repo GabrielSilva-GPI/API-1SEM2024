@@ -150,9 +150,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
+
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | Pesquisa Científica | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
@@ -162,11 +160,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Metodologias Práticas | ★ ★ ★ ★ ★ ★  ☆ ☆ ☆ ☆ |
 
  
-
-
 ## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
@@ -176,7 +170,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Proatividade | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 
-</details>
+
 
 
 # Autores
