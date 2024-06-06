@@ -184,7 +184,5 @@ https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoC
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
 |Product Owner| Eduardo Mendes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() 
-|Scrum Master| Gustavo Ventura | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white
-)]()|
-|Team Member| Luan Roberto | [![https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white
-)]()|
+|Scrum Master| Gustavo Ventura | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() 
+|Team Member| Luan Roberto | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() 
