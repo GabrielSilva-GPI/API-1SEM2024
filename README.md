@@ -39,31 +39,31 @@ Sprint | Previsão | Status| Histórico|
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
-# Equipe
+# Equipe  👥💬
 >"Tech Stock Solution: uma equipe dedicada e colaborativa, comprometida em aplicar as melhores práticas ágeis do Scrum para fornecer soluções tecnológicas inovadoras e eficazes. 
 
 ![TechStock_Equipe](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/40a9a6f4-e8de-432e-9cc8-5ea9f87cd3ed)
 
 
-# Objetivo do Projeto
+# Objetivo do Projeto 🎯
 > O objetivo do projeto é fornecer consultoria utilizando a metodologia ágil Scrum, com foco no trabalho em equipe para alcançar resultados eficazes. Através da aplicação dos princípios do Scrum, pretendemos maximizar a colaboração entre os membros da equipe, aumentar a flexibilidade para lidar com mudanças e garantir entregas de valor de forma iterativa e incremental.
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-> Análise SWOT e Análise crítica (Propostas)
+> Análise SWOT e Análise crítica (Propostas) 📋
 ![image alt text]![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/7c7329ce-1447-46cd-aa20-897f98c99449)
 
 [[link Sprint1](https://www.youtube.com/watch?v=Ny04OOx2n64)]
 
 ## Sprint 2
-> Métodos estátisticos: Média movrl (MM), Média movel ponderada (MMP), Suavizamento exponencial
+> Métodos estátisticos: Média movrl (MM), Média movel ponderada (MMP), Suavizamento exponencial 📊
 ![image alt text](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/a0d46f79-eae3-438c-8aa3-0ed3a18664de))
 
 [[link Sprint2](https://www.youtube.com/watch?v=Ny04OOx2n64)]
 
 ## Sprint 3
-> Realização da metodologia Curva ABC (Gestão de estoques) - Quais produtos possuem maior valor?
+> Realização da metodologia Curva ABC (Gestão de estoques) - Quais produtos possuem maior valor? 📡
 ![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/8dda6891-9286-49db-84a8-cb6fadcd4449)
 
 [[link Sprint3](https://www.youtube.com/watch?v=d4mPzGD_KEk)]
@@ -81,18 +81,29 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 [![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
-
-## Tecnologias Utilizadas
+ 
+## Tecnologias Utilizadas 💻
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
 
-### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
-  
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
 
-# Cronograma das Sprints
+### Tecnológias Específicas/Apoio 📷
+> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+📌 Teams (Criação do grupo)
+📌
+📌
+📌
+
+  
+### Mindset Digital 📱
+> Liste todas as tecnologias referentes aos processos da API
+📍
+📍
+📍
+📍
+
+
+# Cronograma das Sprints 📧
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
