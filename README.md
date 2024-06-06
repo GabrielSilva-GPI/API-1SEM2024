@@ -183,6 +183,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Eduardo Mendes | [![Linkedin Badge](https://br.linkedin.com/in/eduardo-mendes-704571210?trk=public_profile_browsemap-profile)]()|
+|Scrum Master| Gustavo Ventura | [![Linkedin Badge](https://br.linkedin.com/in/gustavo-ventura-5a10a21b8?trk=public_profile_browsemap-profile)]()|
+|Team Member| Luan Roberto | [![Linkedin Badge](https://br.linkedin.com/in/luan-roberto-256531303?trk=public_profile_browsemap-profile)]()|
