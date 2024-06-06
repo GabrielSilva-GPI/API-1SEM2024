@@ -63,9 +63,10 @@ Sprint | Previsão | Status| Histórico|
 [[link Sprint2](https://www.youtube.com/watch?v=Ny04OOx2n64)]
 
 ## Sprint 3
->Colocar o vídeo da apresentação
+> Realização da metodologia Curva ABC (Gestão de estoques) - Quais produtos possuem maior valor?
+![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/6691791f-4ccf-421b-ae9d-fecc9ed83459)
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[[link Sprint3](https://www.youtube.com/watch?v=d4mPzGD_KEk)]
 
 
 ## Sprint 4
