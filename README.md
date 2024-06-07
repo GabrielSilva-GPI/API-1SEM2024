@@ -121,29 +121,37 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção
 > Sprint 1 - Checklist de Atividades Exercidas
+<details>
+<summary>Hard Skills desenvolvidas</summary>
 ✅ Pesquisa sobre Metodologias
 ✅ Análise SWOT
 ✅ Análise Crítica para Solução Propostas
 ✅ Desenvolvimento de Slides
 ✅ Produção de Vídeo
+<details>
 
 ## Sprint 2 - Desenvolvimento do Projeto
 > Sprint 2  - Checklist de Atividades Exercidas
+<details>
+<summary>Hard Skills desenvolvidas</summary>
 ✅ Estudo de Pesquisa sobre Métodos Estatísticos Básicos
 ✅ Desenvolvimento da Média Móvel
 ✅ Desenvolvimento da Média Móvel Ponderada
 ✅ Criação de Planilhas
 ✅ Desenvolvimento de Slides
 ✅ Produção de Vídeo
+<details>
       
 ## Sprint 3 - Implementação
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+<details>
+<summary>Hard Skills desenvolvidas</summary>
 ✅ Aprendizagem de metodologia Curva ABC
 ✅ Desenvolvimento de cálculos estátisticos e porcentagem.
 ✅ Criação da planilha Curva ABC
 ✅ Desenvolvimento de Slides
 ✅ Produção de Vídeo
-      
+  <details>   
 ## Sprint 4 - Operacionalização
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 ✅
