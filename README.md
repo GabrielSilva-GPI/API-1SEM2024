@@ -131,8 +131,10 @@ Estas ferramentas e metodologias garantem uma abordagem ágil e colaborativa par
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
+#### Cronograma das Sprints
+![Sprint3_4](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/b531772e-d1e0-4b0a-ab2a-aab3c136735d)
+![Sprint1_2](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/1e72551a-437e-48b7-ba9c-91866fcc32c1)
+[CronogramaTechStock - Página1.pdf](https://github.com/user-attachments/files/15765186/CronogramaTechStock.-.Pagina1.pdf)
 
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
