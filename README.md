@@ -138,6 +138,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
+![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/76536671-87a7-4a29-a0a1-6a72b73114e0)
+[Backlog_TechStock - BackLog_Base.pdf](https://github.com/user-attachments/files/15765964/Backlog_TechStock.-.BackLog_Base.pdf)
+[Backlog_TechStock.xlsx](https://github.com/user-attachments/files/15765968/Backlog_TechStock.xlsx)
 
 ## Burndown
 
