@@ -85,6 +85,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Tecnologias Utilizadas 💻
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
+
 Sprint 1: Planejamento e Inicialização
 🎯 Objetivo: Estabelecer a base do projeto, definir escopo e metas, e criar uma visão clara do MVP.
 
