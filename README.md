@@ -87,21 +87,19 @@ Vídeo com a apresentação final da API do "semestre/ano"
 > Descreva aqui a parte do MVP referente a cada Sprint
 
 
-### Tecnologias Específicas/Apoio 📷
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
- 
-Power BI: Estatísticas e visualização de dados.
-PowerPoint: Apresentações de análises e resultados.
-Teams: Comunicação e organização de documentos.
-Excel: Planilhas para análise e cálculos.
-Word: Relatórios detalhados.
-Canva: Criação de apresentações e material para social media.
-SWOT: Ferramenta de análise estratégica.
-Curva ABC: Controle e análise de estoque.
-Google: Pesquisas gerais.
-One Drive: Armazenamento de arquivos e documentos.
-Git Hub: Gestão do projeto e versionamento de código.
-Métodos Estatísticos (MM, MMP, Suavização Exponencial): Previsões de demanda.
+### Tecnologias Específicas/Apoio 📷 
+📌 Power BI: Estatísticas e visualização de dados.
+📌 PowerPoint: Apresentações de análises e resultados.
+📌 Teams: Comunicação e organização de documentos.
+📌 Excel: Planilhas para análise e cálculos.
+📌 Word: Relatórios detalhados.
+📌 Canva: Criação de apresentações e material para social media.
+📌 SWOT: Ferramenta de análise estratégica.
+📌 Curva ABC: Controle e análise de estoque.
+📌 Google: Pesquisas gerais.
+📌 One Drive: Armazenamento de arquivos e documentos.
+📌 Git Hub: Gestão do projeto e versionamento de código.
+📌 Métodos Estatísticos (MM, MMP, Suavização Exponencial): Previsões de demanda.
 
   
 ### Mindset Digital 📱
