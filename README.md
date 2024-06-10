@@ -85,9 +85,21 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Tecnologias Utilizadas 💻
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
+Sprint 1: Planejamento e Inicialização
+🎯 Objetivo: Estabelecer a base do projeto, definir escopo e metas, e criar uma visão clara do MVP.
+
+Sprint 2: Desenvolvimento Inicial e Prototipação
+🎯 Objetivo: Desenvolver protótipos iniciais e começar a implementar funcionalidades básicas.
+
+Sprint 3: Desenvolvimento Intermediário e Validação
+🎯 Objetivo: Implementar e validar funcionalidades intermediárias, garantindo que estão alinhadas com os requisitos do cliente
+
+Sprint 4: Desenvolvimento Avançado e Preparação para Lançamento
+🎯 Objetivo: Finalizar as funcionalidades, testar e preparar para o lançamento do MVP.
 
 
 ### Tecnologias Específicas/Apoio 📷 
+> Liste aqui todas as tecnologias utilizadas para concluir as entregas
 📌 Power BI: Estatísticas e visualização de dados.
 📌 PowerPoint: Apresentações de análises e resultados.
 📌 Teams: Comunicação e organização de documentos.
@@ -104,10 +116,13 @@ Vídeo com a apresentação final da API do "semestre/ano"
   
 ### Mindset Digital 📱
 > Liste todas as tecnologias referentes aos processos da API
-📍
-📍
-📍
-📍
+
+📍 GitHub: Controle de versão e colaboração no desenvolvimento de código.
+📍 Power BI: Conexão com diversas fontes de dados para visualização em tempo real.
+📍 Teams: Colaboração e comunicação eficiente entre equipes remotas.
+📍 One Drive: Armazenamento e compartilhamento de documentos na nuvem.
+📍 Google: Ferramentas de pesquisa e integração de serviços.
+Estas ferramentas e metodologias garantem uma abordagem ágil e colaborativa para o desenvolvimento do MVP, alinhando as entregas com os objetivos estratégicos da empresa Doce Sabor.
 
 
 # Cronograma das Sprints 📧
