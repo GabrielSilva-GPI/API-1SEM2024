@@ -75,13 +75,11 @@ Sprint | Previsão | Status| Histórico|
 [![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
+## Modelo de Negócio
+> Planejamento Sprint 4
+![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/0cf03243-4a52-47cb-8fd5-b54b08ce9b3a)
+![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/0def3ba7-d640-4166-a137-6ff2e90567cf)
 
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
- 
 ## Tecnologias Utilizadas 💻
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
