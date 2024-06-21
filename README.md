@@ -27,8 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | dd/mm/aaaa | concluido| [Ver Relatório]() | 
 |02|  dd/mm/aaaa| concluido |[Ver Relatório]() | 
-|03| dd/mm/aaaa | concluido|[Ver Relatório]([Doce Sabor_Teck Stock Solutions.docx](https://github.com/user-attachments/files/15930794/Doce.Sabor_Teck.Stock.Solutions.docx)
-) | 
+|03| dd/mm/aaaa | concluido|[Ver Relatório]([Doce Sabor_Teck Stock Solutions.docx](https://github.com/user-attachments/files/15930794/Doce.Sabor_Teck.Stock.Solutions.docx)) | 
 |04| 16/06/2024 |concluido |[Ver Relatório]() |
 |Feira de Soluções|27/06/2024 |concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
