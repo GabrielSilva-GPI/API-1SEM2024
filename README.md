@@ -25,13 +25,14 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 16/06/2024 |concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|01 | dd/mm/aaaa | concluido| [Ver Relatório]() | 
+|02|  dd/mm/aaaa| concluido |[Ver Relatório]() | 
+|03| dd/mm/aaaa | concluido|[Ver Relatório]([Doce Sabor_Teck Stock Solutions.docx](https://github.com/user-attachments/files/15930794/Doce.Sabor_Teck.Stock.Solutions.docx)
+) | 
+|04| 16/06/2024 |concluido |[Ver Relatório]() |
 |Feira de Soluções|27/06/2024 |concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-> Possíveis status: a fazer, em progresso e concluido
+> Relatóriofoi feito como todo e entregue direto na ultima sprint, e não por sprints.
 
 # Micro Certificações
 <p align="center">
