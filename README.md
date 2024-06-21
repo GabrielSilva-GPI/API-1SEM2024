@@ -70,9 +70,11 @@ Sprint | Previsão | Status| Histórico|
 
 
 ## Sprint 4
->Colocar o vídeo da apresentação
+> Criação e sugestão de nova empresa, (Estudo de caso).
+![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/017142c2-5ae8-4fe8-8bce-b05fa63b4799)
 
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+
+[![SPRINT 4](https://www.youtube.com/watch?v=H23iwCMoqJI)
 
 
 ## Modelo de Negócio
@@ -163,7 +165,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ✅ Produção de Vídeo
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+> Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
 ✅ Aprendizagem de metodologia Curva ABC
 ✅ Desenvolvimento de cálculos estátisticos e porcentagem.
@@ -172,12 +174,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ✅ Produção de Vídeo
  
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-✅
-✅
-✅
-✅
-✅
+> Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+✅ Análise Crítica
+✅ Aprofundamento em pesquisas e dados
+✅ Desenvolvimento de Slides
+✅ Edição e revisão
+✅ Produção de Vídeo
 
 
 # Competências desenvolvidas
