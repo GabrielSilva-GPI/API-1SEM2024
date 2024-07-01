@@ -77,8 +77,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## Feira de soluções!
 > Apresentação final!
-![image](![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/22240018-9ea8-47d5-bb12-61c47b732cfb)
-
+![image](https://github.com/GabrielSilva-GPI/API-1SEM2024/assets/162816614/06fbfbd3-c1eb-437c-beb7-9d9b9426d7fc)
 
 
 ## Modelo de Negócio
